@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 
 tesla-ai-lab/.git/
+day2/
+runs/
+*.jpg
